@@ -79,6 +79,16 @@ module.exports = () => {
           "conceptImg": "https://post-phinf.pstatic.net/MjAyMDA5MTZfMzAw/MDAxNjAwMjEyNDg2MDMy.0yEvTPnRADuQ3lNHpj9Mny6a74b4mzTYeZAjFUhaUmkg.iKZqCXcJ9TsKQvtxJ1dsq5cFL-cGMWzEovLmJAMUwhog.JPEG/2020-porsche-cayenne-GTS-1.jpg?type=w1200",
           "modelImg": "https://imgauto-phinf.pstatic.net/20200612_4/auto_1591922956649DifRB_PNG/20200612094850_jyaqrvNE.png?type=f152_110",
           "checked": false
+        },
+        {
+          "id": 9,
+          "name": "2021 TEST",
+          "brand": "Test",
+          "price": "미정",
+          "year": "2021",
+          "conceptImg": "https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile4.uf.tistory.com%2Fimage%2F999FAD435BDEE7D71182C2",
+          "modelImg": "https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile4.uf.tistory.com%2Fimage%2F999FAD435BDEE7D71182C2",
+          "checked": false
         }
     ]
 }
